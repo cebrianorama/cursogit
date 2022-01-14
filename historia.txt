@@ -6,4 +6,4 @@ estoy aprendiendo Git y GitHub
 
 Modificación 1
 
-Modificación 2 de hoy viernes
+Modificación 2 de hoy viernes segunda parte
